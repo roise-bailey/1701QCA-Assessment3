@@ -128,12 +128,12 @@ Cons
 
 ### Final design concept ###
 <!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
-A small box where when it detects motion, spiders start spinning inside with led's and a buzzer activated.
+A small scene where when it detects motion, spiders start spinning and moving up and down with led's also activated.
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
-![Image](missingimage.png)
+![Image](chart.png)
 
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
@@ -174,11 +174,81 @@ Testing the motor with multiple strings connected to one object
 
 https://www.youtube.com/watch?v=ZHziciWTWhk&feature=youtu.be
 
+The decision was made to use the servo to control one small spider and add gears to spin two other spiders using another motor.
+The addition of a light strip was also added.
 
+##Testing the servo motor to move up and down
+![Image](servodiagram.JPG)
+![Image](servomove1.JPG)
+VIDEO
+
+##Testing the light strip
+![Image](lightdiagram.JPG)
+![Image](lightstriptest1.JPG)
+![Image](lightstriptestimg.JPG)
+
+#Testing the motor
+![Image](motorcode.JPG)
+![Image](motortest.JPG)
+
+#Testing the sensor
+![Image](sensordiagram.JPG)
+![Image](ultrasonictest1.JPG)
+![Image](ultra1.JPG)
+![Image](ultrasonictest2.JPG)
+![Image](ultra2.JPG)
+VIDEOS
+
+#Testing the sensor and the light together
+![Image](testingsensorandlight.JPG)
+
+##Soldering wires
+![Image](soldering.JPG)
+![Image](solderedwire.JPG)
+
+##Construction of the project
+The construction concept of the project was altered to be set in a small garden diagram. This choice was made to help hide extra wires, battery packs and allow for the servo spider to hang down.
+
+Constructing spiders
+![Image](con1.JPG)
+![Image](con2.JPG)
+![Image](con3.JPG)
+
+Constructing the tree
+![Image](con4.JPG)
+![Image](con5.JPG)
+![Image](con6.JPG)
+
+Building the gear controlled spiders
+![Image](con7.JPG)
+![Image](con8.JPG)
+![Image](con9.JPG)
+![Image](con10.JPG)
+![Image](con11.JPG)
+
+Installing the servo motor into the tree
+![Image](con12.JPG)
+
+Placing spiders into diagram
+![Image](con13.JPG)
+
+Adding grass
+![Image](con14.JPG)
+
+Placing all wires underneath the project
+![Image](con15.JPG)
+
+Installing lights and sensor
+![Image](con16.JPG)
+
+##Final Test
+VIDEO
 
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
+![Image](finalcode.JPG)
+
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
