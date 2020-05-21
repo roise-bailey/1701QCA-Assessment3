@@ -217,21 +217,21 @@ The construction concept of the project was altered to be set in a small garden 
 
 ##### Constructing the tree #####
 ![Image](con4.JPG)
-![Image](con5.JPG)
+![Image](con5.JPEG)
 ![Image](con6.JPG)
 
 ##### Building the gear controlled spiders #####
-![Image](con7.JPG)
-![Image](con8.JPG)
-![Image](con9.JPG)
+![Image](con7.JPEG)
+![Image](con8.JPEG)
+![Image](con9.JPEG)
 ![Image](con10.JPG)
-![Image](con11.JPG)
+![Image](con11.JPEG)
 
 ##### Installing the servo motor into the tree #####
 ![Image](con12.JPG)
 
 ##### Placing spiders into diagram #####
-![Image](con13.JPG)
+![Image](con13.JPEG)
 
 ##### Adding grass #####
 ![Image](con14.JPG)
@@ -253,7 +253,7 @@ VIDEO
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
-
+![Image](diamondd.png)
 
 ## Reflection ##
 
