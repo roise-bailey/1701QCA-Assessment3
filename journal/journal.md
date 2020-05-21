@@ -149,18 +149,18 @@ Initial test of the motor included in the Kitronik Inventor's Kit to see if the 
 ![Image](motortest1.JPG)
 ![Image](testmotor1.JPG)
 
-#### Video of test: ####
+### Video of test: ###
 
 https://www.youtube.com/watch?v=Oh5N0yDEmcg&feature=youtu.be 
 
-#### Testing the PIR Motion Sensor ####
+### Testing the PIR Motion Sensor ###
 ![Image](pirmotiontest.JPG)
 ![Image](testmotion.JPG)
 
 The tests of the PIR Motion Sensor were unsuccessful, most likely due to a lack of power. This is something that will have to be improved before the final project.
 
 
-#### Testing the servo motor ####
+### Testing the servo motor ###
 ![Image](servotest.JPG)
 ![Image](testservo.JPG)
 
@@ -170,28 +170,28 @@ Testing the motor and button to move one string
 
 Testing the motor with multiple strings connected to one object
 
-#### Video of servo motor tests: ####
+### Video of servo motor tests: ###
 
 https://www.youtube.com/watch?v=ZHziciWTWhk&feature=youtu.be
 
 The decision was made to use the servo to control one small spider and add gears to spin two other spiders using another motor.
 The addition of a light strip was also added.
 
-#### Testing the servo motor to move up and down ####
+### Testing the servo motor to move up and down ###
 ![Image](servodiagram.JPG)
 ![Image](servomove1.JPG)
 VIDEO
 
-#### Testing the light strip ####
+### Testing the light strip ###
 ![Image](lightdiagram.JPG)
 ![Image](lightstriptest1.JPG)
 ![Image](lightsrtiptestimg.JPG)
 
-#### Testing the motor ####
+### Testing the motor ###
 ![Image](motorcode.JPG)
 ![Image](motortest.JPG)
 
-#### Testing the sensor ####
+### Testing the sensor ###
 The decision was made to switch fron thr PIR Motion Sensor to a Ultrasonic Distance sensor as it seemed best fit for this project.
 ![Image](sensordiagram.JPG)
 ![Image](ultrasonictest1.JPG)
@@ -200,46 +200,46 @@ The decision was made to switch fron thr PIR Motion Sensor to a Ultrasonic Dista
 ![Image](ultra2.JPG)
 VIDEOS
 
-#### Testing the sensor and the light together ####
+### Testing the sensor and the light together ###
 ![Image](testingsensorandlight.JPG)
 
-#### Soldering wires ####
+### Soldering wires ###
 ![Image](soldering.JPG)
 ![Image](solderedwire.JPG)
 
-#### Construction of the project ####
+### Construction of the project ###
 The construction concept of the project was altered to be set in a small garden diagram. This choice was made to help hide extra wires, battery packs and allow for the servo spider to hang down.
 
-##### Constructing spiders #####
+#### Constructing spiders ####
 ![Image](con1.JPG)
 ![Image](con2.JPG)
 ![Image](con3.JPG)
 
-##### Constructing the tree #####
+#### Constructing the tree ####
 ![Image](con4.JPG)
 ![Image](con5.JPEG)
 ![Image](con6.JPG)
 
-##### Building the gear controlled spiders #####
+#### Building the gear controlled spiders ####
 ![Image](con7.JPEG)
 ![Image](con8.JPEG)
 ![Image](con9.JPEG)
 ![Image](con10.JPG)
 ![Image](con11.JPEG)
 
-##### Installing the servo motor into the tree #####
+#### Installing the servo motor into the tree ####
 ![Image](con12.JPG)
 
-##### Placing spiders into diagram #####
+#### Placing spiders into diagram ####
 ![Image](con13.JPEG)
 
-##### Adding grass #####
+#### Adding grass ####
 ![Image](con14.JPG)
 
-##### Placing all wires underneath the project #####
+#### Placing all wires underneath the project ####
 ![Image](con15.JPG)
 
-##### Installing lights and sensor #####
+#### Installing lights and sensor ####
 ![Image](con16.JPG)
 
 #### Final Test ####
@@ -253,7 +253,10 @@ VIDEO
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
-![Image](diamondd.png)
+![Image](diamond.png)
+
+Over the working time for this assignment, my concept has changed numerous times with feedback on ideas, and issues with accessing parts. This evolvement of ideas is reflected in the Double Diamond design process with steps being, discover, define, develop and deliver. The evolution has been though my own development and discovery process with major changes happening after a discussion with course instructor, David. Given the current situation with Covid-19 and online learning, I do believe that this process of feedback and development of the project has been hindered. The process of feedback and evolution of ideas would be much faster if we were on campus with immediate feedback unlike the delay between posting and responding online. With Covid-19, many other challenges have been faced that delayed the development of the project such as access to different parts- which took longer to get then expected, meaning I had less time to get familiar with their technology than I would like. This problem will be resolved before the final project is due as I now have more time with the new parts to test different ideas on how to get them to function efficiently. In the development stage of the Double Diamond process, and brainstorming multiple concepts, inspiration was found in talking to friends and family and hearing their opinions on my ideas to form the final concept. The last section of the double diamond process, deliver, involved testing the different technology and learning the best ways to use them in the final project. Testing the servo motor was ultimately successful with the motor working efficiently with extra weight added. Testing the PIR motion sensor was less successful with the sensor being unreliable- this issue is most likely due to a lack of power and is something that needs to be worked on before the final project is due. The project and prototyping of the project up to this point has involves testing individual parts separately, drawing diagrams of the fabrication and the possible materials the final project will use. The next challenge I will face is to get all the elements working together by testing different solutions on a small scale, rejecting those that don’t work and improving on the ones that will. I will also need to build an aesthetically pleasing base for the project and creating the best connections with the wires. I hope to add more elements to the design, such as lights to further enhance the final product, using the Double Diamond process to revise and expand on concepts to finally deliver on the final design.
+
 
 ## Reflection ##
 
