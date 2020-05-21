@@ -153,14 +153,14 @@ Initial test of the motor included in the Kitronik Inventor's Kit to see if the 
 
 https://www.youtube.com/watch?v=Oh5N0yDEmcg&feature=youtu.be 
 
-#### Testing the PIR Motion Sensor####
+#### Testing the PIR Motion Sensor ####
 ![Image](pirmotiontest.JPG)
 ![Image](testmotion.JPG)
 
 The tests of the PIR Motion Sensor were unsuccessful, most likely due to a lack of power. This is something that will have to be improved before the final project.
 
 
-#### Testing the servo motor####
+#### Testing the servo motor ####
 ![Image](servotest.JPG)
 ![Image](testservo.JPG)
 
@@ -170,28 +170,28 @@ Testing the motor and button to move one string
 
 Testing the motor with multiple strings connected to one object
 
-#### Video of servo motor tests:####
+#### Video of servo motor tests: ####
 
 https://www.youtube.com/watch?v=ZHziciWTWhk&feature=youtu.be
 
 The decision was made to use the servo to control one small spider and add gears to spin two other spiders using another motor.
 The addition of a light strip was also added.
 
-#### Testing the servo motor to move up and down####
+#### Testing the servo motor to move up and down ####
 ![Image](servodiagram.JPG)
 ![Image](servomove1.JPG)
 VIDEO
 
-#### Testing the light strip####
+#### Testing the light strip ####
 ![Image](lightdiagram.JPG)
 ![Image](lightstriptest1.JPG)
 ![Image](lightstriptestimg.JPG)
 
-#### Testing the motor####
+#### Testing the motor ####
 ![Image](motorcode.JPG)
 ![Image](motortest.JPG)
 
-#### Testing the sensor####
+#### Testing the sensor ####
 The decision was made to switch fron thr PIR Motion Sensor to a Ultrasonic Distance sensor as it seemed best fit for this project.
 ![Image](sensordiagram.JPG)
 ![Image](ultrasonictest1.JPG)
@@ -200,49 +200,49 @@ The decision was made to switch fron thr PIR Motion Sensor to a Ultrasonic Dista
 ![Image](ultra2.JPG)
 VIDEOS
 
-#### Testing the sensor and the light together####
+#### Testing the sensor and the light together ####
 ![Image](testingsensorandlight.JPG)
 
-#### Soldering wires####
+#### Soldering wires ####
 ![Image](soldering.JPG)
 ![Image](solderedwire.JPG)
 
-#### Construction of the project####
+#### Construction of the project ####
 The construction concept of the project was altered to be set in a small garden diagram. This choice was made to help hide extra wires, battery packs and allow for the servo spider to hang down.
 
-##### Constructing spiders#####
+##### Constructing spiders #####
 ![Image](con1.JPG)
 ![Image](con2.JPG)
 ![Image](con3.JPG)
 
-##### Constructing the tree#####
+##### Constructing the tree #####
 ![Image](con4.JPG)
 ![Image](con5.JPG)
 ![Image](con6.JPG)
 
-##### Building the gear controlled spiders#####
+##### Building the gear controlled spiders #####
 ![Image](con7.JPG)
 ![Image](con8.JPG)
 ![Image](con9.JPG)
 ![Image](con10.JPG)
 ![Image](con11.JPG)
 
-##### Installing the servo motor into the tree#####
+##### Installing the servo motor into the tree #####
 ![Image](con12.JPG)
 
-##### Placing spiders into diagram#####
+##### Placing spiders into diagram #####
 ![Image](con13.JPG)
 
-##### Adding grass#####
+##### Adding grass #####
 ![Image](con14.JPG)
 
-##### Placing all wires underneath the project#####
+##### Placing all wires underneath the project #####
 ![Image](con15.JPG)
 
-##### Installing lights and sensor#####
+##### Installing lights and sensor #####
 ![Image](con16.JPG)
 
-#### Final Test####
+#### Final Test ####
 VIDEO
 
 ## Final code ##
