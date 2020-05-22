@@ -15,6 +15,8 @@ The image should be inserted with code like that below where you replace the fil
 
 <!--- PROJECT DESCRIPTION: In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. --->
 
+Land of a Thousand Spiders is a small scene where when motion is detected, spiders start spinning and moving up and down with led's also activated. With the intended purpose of a decoration, Land of a Thousand Spiders can be used by the whole family. 
+
 <!--- SECONDARY IMAGE: Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else. This should not just be a different angle of the same object. It should show the project in use if the first image didn't show that, or somehow tell us a different story about the project. --->
 
 ![Image](working.jpg)
