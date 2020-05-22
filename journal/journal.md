@@ -288,9 +288,8 @@ Over the working time for this assignment, my concept has changed numerous times
 
 ## Reflection ##
 
-<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
+<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.--->
 
-### What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
 
 I found inspiration to use gears while watching a documentary on Ismail al-Jazari and his use of mechanics to get elements to move, shown in the image below. 
 The most useful information accessed was tutorials on how to install parts and how they work. This was important to gain an initial understanding of all the parts that I used to have the knowledge on how to alter them to work best with my project.
@@ -298,10 +297,8 @@ The most useful information accessed was tutorials on how to install parts and h
 ![Image](aljaz.jpg)
 
 
-### What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
 
 Some elements of my project can be seen as similar to others that exist, such as windup mechanical childrens toys or a motion sensored halloween spider. Though, as a whole I believe that the fabrication and involvement of the different mechanical and electronic processes is individual to my project. While searching the internet I had no success in finding a similar project to mine. While no project can be completely individual as inspiration is mostly found in others projects, I believe that I have taken different elements from multiple other projects and combined/ altered them to form something novel.
 
-### What might be an interesting extension of this project? In what other contexts might this project be used?
 
 An interesting extention of this project could be to scale it up large enough that a person could walk through the garden while the different elements move around them. This could be used in the context of a Halloween attraction. This concept can be altered to become a themepark ride where the different elements move around as you travel through the ride. The product could also be customisable (both the small at home version and the scaled up attraction) to suit different holidays such a making a Christmas or Easter version that can be used as a house decoration or a public attraction. 
