@@ -81,6 +81,31 @@ https://link.springer.com/chapter/10.1007%2F1-4020-2204-2_10
 
 This source is focused on the evolution of the manipulation of marionette puppets. This was useful to the development of my project by helping me form an understanding of the function of a marionette and how I can replicate this technology in my project.
 
+### Installing a HC-SR04 Module to the Micro:bit ###
+
+https://www.kitronik.co.uk/blog/distance-sensing-microbit-hc-sr04-module
+
+This source provided a tutorial on how to attach a Ultrasonic motion sensor to the micro:bit.
+
+### Connecting light strips to the Micro:bit ###
+
+https://www.digikey.com/en/maker/blogs/2018/how-to-fire-neopixels-on-the-micro-bit
+
+This source provided a tutorial on how to attach a NeoPixels to the micro:bit. Although the specific lightstrip I used was not a neopixel, this tutorial was still useful in forming the initial connection.
+
+### Installing a DC Motor to the Micro:bit ###
+
+https://www.littlebird.com.au/a/how-to/109/dc-motor-with-micro-bit
+
+This source provided a tutorial on how to use DC motors with the micro:bit. The tutorial was useful in understanding how to control the speed and amount of power given to the motor.
+
+### How to use gears with a motor ###
+
+https://www.youtube.com/watch?v=cK88GmCxqA4
+
+This source provided a tutorial on how to use gears with DC motors. As I have never worked with gears before, this tutorial was useful in forming a basic knowledge of how they work.
+
+
 
 ## Conceptual development ##
 
@@ -128,7 +153,7 @@ Cons
 
 ### Final design concept ###
 <!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
-A small scene where when it detects motion, spiders start spinning and moving up and down with led's also activated.
+A small scene where when it detects motion, spiders start spinning and moving up and down with led's also activated. This involves one motor being used to get a spiders legs to go up and down and another motor powering gears which spin another two spiders.
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
@@ -174,8 +199,11 @@ Testing the motor with multiple strings connected to one object
 
 https://www.youtube.com/watch?v=ZHziciWTWhk&feature=youtu.be
 
+
+
 The decision was made to use the servo to control one small spider and add gears to spin two other spiders using another motor.
-The addition of a light strip was also added.
+The addition of a light strip was also added. These changes required the purchase of several different new parts such as more battery packs, gears and a stronger motor.
+
 
 ### Testing the servo motor to move up and down ###
 ![Image](servodiagram.JPG)
@@ -192,7 +220,7 @@ VIDEO
 ![Image](motortest.JPG)
 
 ### Testing the sensor ###
-The decision was made to switch fron thr PIR Motion Sensor to a Ultrasonic Distance sensor as it seemed best fit for this project.
+The decision was made to switch fron thr PIR Motion Sensor to a Ultrasonic Distance sensor as it seemed best fit for this project. It was also more simple to get functioning reliably in the time period.
 ![Image](sensordiagram.JPG)
 ![Image](ultrasonictest1.JPG)
 ![Image](ultra1.JPG)
@@ -255,15 +283,25 @@ VIDEO
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
 ![Image](diamond.png)
 
-Over the working time for this assignment, my concept has changed numerous times with feedback on ideas, and issues with accessing parts. This evolvement of ideas is reflected in the Double Diamond design process with steps being, discover, define, develop and deliver. The evolution has been though my own development and discovery process with major changes happening after a discussion with course instructor, David. Given the current situation with Covid-19 and online learning, I do believe that this process of feedback and development of the project has been hindered. The process of feedback and evolution of ideas would be much faster if we were on campus with immediate feedback unlike the delay between posting and responding online. With Covid-19, many other challenges have been faced that delayed the development of the project such as access to different parts- which took longer to get then expected, meaning I had less time to get familiar with their technology than I would like. This problem will be resolved before the final project is due as I now have more time with the new parts to test different ideas on how to get them to function efficiently. In the development stage of the Double Diamond process, and brainstorming multiple concepts, inspiration was found in talking to friends and family and hearing their opinions on my ideas to form the final concept. The last section of the double diamond process, deliver, involved testing the different technology and learning the best ways to use them in the final project. Testing the servo motor was ultimately successful with the motor working efficiently with extra weight added. Testing the PIR motion sensor was less successful with the sensor being unreliable- this issue is most likely due to a lack of power and is something that needs to be worked on before the final project is due. The project and prototyping of the project up to this point has involves testing individual parts separately, drawing diagrams of the fabrication and the possible materials the final project will use. The next challenge I will face is to get all the elements working together by testing different solutions on a small scale, rejecting those that don’t work and improving on the ones that will. I will also need to build an aesthetically pleasing base for the project and creating the best connections with the wires. I hope to add more elements to the design, such as lights to further enhance the final product, using the Double Diamond process to revise and expand on concepts to finally deliver on the final design.
+Over the working time for this assignment, my concept has changed numerous times with feedback on ideas, and issues with accessing parts. This evolvement of ideas is reflected in the Double Diamond design process with steps being, discover, define, develop and deliver. The evolution has been though my own development and discovery process with major changes happening after a discussion with course instructor, David. Given the current situation with Covid-19 and online learning, I do believe that this process of feedback and development of the project has been hindered. The process of feedback and evolution of ideas would be much faster if we were on campus with immediate feedback unlike the delay between posting and responding online. With Covid-19, many other challenges have been faced that delayed the development of the project such as access to different parts- which took longer to get then expected, meaning I had less time to get familiar with their technology than I would like. A majority of time on this project was spent testing the new and unfamiliar parts to test different ideas on how to get them to function efficiently. In the development stage of the Double Diamond process, and brainstorming multiple concepts, inspiration was found in talking to friends and family and hearing their opinions on my ideas to form the final concept. The design of the final project changed multiple times throughout this process. These decisions were mainly made during building or purchasing parts either to solve problems that arose or to improve aesthetics. The last section of the double diamond process, deliver, involved testing the different technology and learning the best ways to use them in the final project. Testing the servo motor was ultimately successful with the motor working efficiently with extra weight added. Testing the PIR motion sensor was less successful with the sensor being unreliable. The decision was made to switch to a dual ultrasonic sensor module. This decision was made as the sensor seemed more appropriate for the intended use of the project and was easier to install in the time period. The project and prototyping of the project has involved testing individual parts separately, drawing diagrams of possible fabrication to decide what materials will be used in the final project. The challenges I will faced mainly involved getting all the elements working together by testing different solutions, rejecting those that don’t work and improving on the ones that did. This process took a long time which left less time to get the final prototype to look professional. 
 
 
 ## Reflection ##
 
 <!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
 
-What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
+### What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)? ###
 
-What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
+I found inspiration to use gears while watching a documentary on Ismail al-Jazari and his use of mechanics to get elements to move, shown in the image below. 
+The most useful information accessed was tutorials on how to install parts and how they work. This was important to gain an initial understanding of all the parts that I used to have the knowledge on how to alter them to work best with my project.
 
-What might be an interesting extension of this project? In what other contexts might this project be used? --->
+![Image](aljaz.jpg)
+
+
+### What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric. ###
+
+Some elements of my project can be seen as similar to others that exist, such as windup mechanical childrens toys or a motion sensored halloween spider. Though, as a whole I believe that the fabrication and involvement of the different mechanical and electronic processes is individual to my project. While searching the internet I had no success in finding a similar project to mine. While no project can be completely individual as inspiration is mostly found in others projects, I believe that I have taken different elements from multiple other projects and combined/ altered them to form something novel.
+
+### What might be an interesting extension of this project? In what other contexts might this project be used? ---> ###
+
+An interesting extention of this project could be to scale it up large enough that a person could walk through the garden while the different elements move around them. This could be used in the context of a Halloween attraction. This concept can be altered to become a themepark ride where the different elements move around as you travel through the ride. The product could also be customisable (both the small at home version and the scaled up attraction) to suit different holidays such a making a Christmas or Easter version that can be used as a house decoration or a public attraction. 
