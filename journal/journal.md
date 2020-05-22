@@ -64,7 +64,7 @@ This project is related to mine through similar concept of using gears that acti
 
 ## Other research ##
 <!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
-### Attatching a PIR Motion Sensor to a micro:bit ###
+### Attaching a PIR Motion Sensor to a micro:bit ###
 
 https://www.teachwithict.com/pir.html
 
