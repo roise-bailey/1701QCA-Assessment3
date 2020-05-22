@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=cofqYukXTow&feature=emb_title
 
 ![Image](pirmushroom.JPG)
 
-This project is related to mine with the use of similar technology, and concept. A PIR Motion Sensor is used to monitor movement in a room, setting off a buzzer when movement is detected. The project is also powered by Arduino which is similar technology to the micro:bit.
+This project is related to mine with the use of similar technology, and concept. A Motion Sensor is used to monitor movement in a room, setting off a buzzer when movement is detected. The project is also powered by Arduino which is similar technology to the micro:bit.
 
 ### Related project 5 ###
 Motorized Marionette Puppet
@@ -53,13 +53,14 @@ https://www.researchgate.net/figure/The-motorized-marionette-and-its-model-The-m
 This project is related to mine through similar technology and concept being a puppet like shape with limbs being controlled using a motor. Though this project is more advanced than mine will be, the idea and base technology behind it is of a similar nature to what mine will be.
 
 ### Related project 6 ###
-Motion and Sound Activated Baby Mobile
+Rotating Music Box 
 
-https://www.littlebits.cc/projects/sound-motion-activated-baby-mobile
+https://www.ehow.com/how_7995974_build-rotating-music-box.html
 
-![Image](baby.JPG)
+![Image](musicbox.JPEG)
 
-This project is related to mine through similar concept being a mobile that is activated through motion. While this mabile is made specifically for a baby, my mobile has multiple uses such as a halloween decoration.
+This project is related to mine through similar concept of using gears that activate through an action. In this example, opening the box triggers the spinning while mine uses a motion sensor. The concept of this project is similar to the gear powered spiders on mine.
+
 
 ## Other research ##
 <!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
