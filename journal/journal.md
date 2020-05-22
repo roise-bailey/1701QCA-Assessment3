@@ -57,7 +57,7 @@ Rotating Music Box
 
 https://www.ehow.com/how_7995974_build-rotating-music-box.html
 
-![Image](musicbox.JPEG)
+![Image](musicbox.JPG)
 
 This project is related to mine through similar concept of using gears that activate through an action. In this example, opening the box triggers the spinning while mine uses a motion sensor. The concept of this project is similar to the gear powered spiders on mine.
 
@@ -159,7 +159,7 @@ A small scene where when it detects motion, spiders start spinning and moving up
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
-![Image](chart.JPG)
+![Image](diagramthing.JPG)
 
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
