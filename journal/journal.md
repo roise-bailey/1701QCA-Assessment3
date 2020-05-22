@@ -208,7 +208,11 @@ The addition of a light strip was also added. These changes required the purchas
 ### Testing the servo motor to move up and down ###
 ![Image](servodiagram.JPG)
 ![Image](servomove1.JPG)
-VIDEO
+
+#### Testing the servo video: ####
+
+https://youtu.be/ph2djJTQU34
+
 
 ### Testing the light strip ###
 ![Image](lightdiagram.JPG)
@@ -226,7 +230,10 @@ The decision was made to switch fron thr PIR Motion Sensor to a Ultrasonic Dista
 ![Image](ultra1.JPG)
 ![Image](ultrasonictest2.JPG)
 ![Image](ultra2.JPG)
-VIDEOS
+
+#### Testing the sensor video: ####
+
+https://youtu.be/wehM-77_8t4
 
 ### Testing the sensor and the light together ###
 ![Image](testingsensorandlight.JPG)
@@ -270,8 +277,11 @@ The construction concept of the project was altered to be set in a small garden 
 #### Installing lights and sensor ####
 ![Image](con16.JPG)
 
-#### Final Test ####
-VIDEO
+#### Final Test Video ####
+
+https://youtu.be/uD_QxPeA1MA
+
+
 
 ## Final code ##
 
